@@ -9,5 +9,4 @@
 <p align="center"> In my spare time I just do whatever I think is interesting! You can check out <a href="https://rxtnshi.xyz/projects">rxtnshi.xyz</a> for what I'm working with</p>
 
 
-<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=rxtnshi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"></p>
-<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxtnshi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"></p>
+<p align="center">&nbsp; ![Top Languages](./profile/top-langs.svg) </p>
