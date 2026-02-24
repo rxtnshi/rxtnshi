@@ -8,4 +8,4 @@
 
 <p align="center"> In my spare time I just do whatever I think is interesting! You can check out <a href="https://rxtnshi.xyz/projects">rxtnshi.xyz</a> for what I'm working with</p>
 
-<p align="center">[Top Languages](./profile/top-langs.svg)</p>
+<p align="center"> <img src="./profile/top-langs.svg" alt="Top Languages"> </p>
